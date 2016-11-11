@@ -4,6 +4,7 @@ js libs
 TEST
 
 Exemples:
+Serv{
 
 var deeplib_s = require('./deeplib_s.js');
 var server = new deeplib_s.serv();
@@ -20,3 +21,5 @@ io.on('connection', function (socket) {
 });
 
 server.start(8080);
+
+}
