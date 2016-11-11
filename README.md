@@ -1,9 +1,7 @@
 # jDeePLiBs
 js libs
 
-TEST
 
-Exemples:
 Serv{
 
 var deeplib_s = require('./deeplib_s.js');
